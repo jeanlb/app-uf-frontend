@@ -1,5 +1,5 @@
-# supero-desafio-frontend
-Projeto de Tasklist. Aplicação Frontend consumidora da aplicação servidora (Backend) supero-desafio.
+# app-uf-frontend
+Projeto para cadastro de Unidades Federativas. Aplicação Frontend consumidora da aplicação servidora (Backend) supero-desafio.
 
 ## Características
 
