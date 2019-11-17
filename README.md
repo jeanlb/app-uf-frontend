@@ -15,3 +15,6 @@ Fontes: https://gist.github.com/wh1tney/2ad13aa5fbdd83f6a489, http://blog.teamtr
 - Utilize um servidor Web para levantar a aplicação. Localmente utilizei o servidor Web embutido no Python (caso o Python esteja instalado e configurado em seu PC/notebook). Exemplo: entre na pasta supero-desafio-frontend e no terminal/console execute o comando: python -m http.server
 - Caso tenha iniciado um servidor Web local com Python a aplicação frontend estará rodando no endereço padrão http://localhost:8000
 - Modifique a url da API (servidor backend) em supero-desafio-frontend\application.json
+
+## Exemplo rodando na Nuvem (Heroku):
+https://app-uf-frontend.herokuapp.com/#/
